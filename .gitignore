@@ -27,3 +27,6 @@ __pycache__
 
 ### PyCharm IDE ###
 .idea
+
+### Airflow ###
+logs
